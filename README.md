@@ -1,2 +1,2 @@
 # Next_Candle_Color
-This project was designed for forecasting the USDJPY next candle color
+This project was designed to forecast the USDJPY's next candle color
